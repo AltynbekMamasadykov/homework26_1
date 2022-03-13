@@ -1,7 +1,9 @@
 package com.company;
 
+import com.company.classes.Car;
+import com.company.classes.CarInfo;
+
 import java.util.HashMap;
-import java.util.Map;
 
 public class Main {
 
